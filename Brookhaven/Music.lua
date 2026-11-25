@@ -1,4 +1,4 @@
-;(function()
+(function()
     local Tab9 = Window:MakeTab({"| Musicas", "music"})
 
     local unpack = unpack or table.unpack
